@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\EJERCICIO 1 (FUNCION)\bin\Debug\EJERCICIO 1 (FUNCION).exe.config
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\EJERCICIO 1 (FUNCION)\bin\Debug\EJERCICIO 1 (FUNCION).exe
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\EJERCICIO 1 (FUNCION)\bin\Debug\EJERCICIO 1 (FUNCION).pdb
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\EJERCICIO 1 (FUNCION)\obj\Debug\EJERCICIO 1 (FUNCION).csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\EJERCICIO 1 (FUNCION)\obj\Debug\EJERCICIO 1 (FUNCION).csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\EJERCICIO 1 (FUNCION)\obj\Debug\EJERCICIO 1 (FUNCION).exe
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\EJERCICIO 1 (FUNCION)\obj\Debug\EJERCICIO 1 (FUNCION).pdb

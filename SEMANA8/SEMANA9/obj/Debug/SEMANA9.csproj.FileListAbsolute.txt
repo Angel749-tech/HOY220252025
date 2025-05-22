@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\SEMANA9\obj\Debug\SEMANA9.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\SEMANA9\obj\Debug\SEMANA9.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\SEMANA9\bin\Debug\SEMANA9.exe.config
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\SEMANA9\bin\Debug\SEMANA9.exe
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\SEMANA9\bin\Debug\SEMANA9.pdb
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\SEMANA9\obj\Debug\SEMANA9.exe
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\SEMANA9\obj\Debug\SEMANA9.pdb

@@ -1,0 +1,10 @@
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\sem9PRACTICA\bin\Debug\sem9PRACTICA.exe.config
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\sem9PRACTICA\bin\Debug\sem9PRACTICA.exe
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\sem9PRACTICA\bin\Debug\sem9PRACTICA.pdb
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\sem9PRACTICA\obj\Debug\sem9PRACTICA.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\sem9PRACTICA\obj\Debug\sem9PRACTICA.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\sem9PRACTICA\obj\Debug\sem9PRACTICA.exe
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\sem9PRACTICA\obj\Debug\sem9PRACTICA.pdb
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\sem9PRACTICA\bin\Debug\BIbliotecaa.dll
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\sem9PRACTICA\bin\Debug\BIbliotecaa.pdb
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\sem9PRACTICA\obj\Debug\sem9PRAC.B665C778.Up2Date

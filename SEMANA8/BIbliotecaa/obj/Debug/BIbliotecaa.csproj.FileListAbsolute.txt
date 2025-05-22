@@ -1,0 +1,6 @@
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\BIbliotecaa\bin\Debug\BIbliotecaa.dll
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\BIbliotecaa\bin\Debug\BIbliotecaa.pdb
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\BIbliotecaa\obj\Debug\BIbliotecaa.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\BIbliotecaa\obj\Debug\BIbliotecaa.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\BIbliotecaa\obj\Debug\BIbliotecaa.dll
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\BIbliotecaa\obj\Debug\BIbliotecaa.pdb

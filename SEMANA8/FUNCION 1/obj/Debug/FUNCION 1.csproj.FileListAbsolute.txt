@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\FUNCION 1\bin\Debug\FUNCION 1.exe.config
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\FUNCION 1\bin\Debug\FUNCION 1.exe
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\FUNCION 1\bin\Debug\FUNCION 1.pdb
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\FUNCION 1\obj\Debug\FUNCION 1.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\FUNCION 1\obj\Debug\FUNCION 1.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\FUNCION 1\obj\Debug\FUNCION 1.exe
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\FUNCION 1\obj\Debug\FUNCION 1.pdb

@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\PRACTICA SEMANA 8\bin\Debug\PRACTICA SEMANA 8.exe.config
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\PRACTICA SEMANA 8\bin\Debug\PRACTICA SEMANA 8.exe
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\PRACTICA SEMANA 8\bin\Debug\PRACTICA SEMANA 8.pdb
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\PRACTICA SEMANA 8\obj\Debug\PRACTICA SEMANA 8.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\PRACTICA SEMANA 8\obj\Debug\PRACTICA SEMANA 8.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\PRACTICA SEMANA 8\obj\Debug\PRACTICA SEMANA 8.exe
+C:\Users\UPN\Desktop\nuevo git\SEMANA8\PRACTICA SEMANA 8\obj\Debug\PRACTICA SEMANA 8.pdb
